@@ -1,0 +1,27 @@
+{
+  "name": "node-statscomputer",
+  "version": "0.1.0",
+  "description": "node-statscomputer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "Claus Hemberg Jørgensen",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mocha": "^2.2.5",
+    "mongodb": "^2.0.33",
+    "winston": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
